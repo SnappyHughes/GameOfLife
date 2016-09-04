@@ -5,3 +5,10 @@ C:\Repos\GameOfLife\GameOfLife\bin\Debug\nunit.framework.xml
 C:\Repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
 C:\Repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.dll
 C:\Repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
+C:\Users\Cameron\Documents\GitHub\GameOfLife\GameOfLife\GameOfLife\bin\Debug\GameOfLife.dll
+C:\Users\Cameron\Documents\GitHub\GameOfLife\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\Cameron\Documents\GitHub\GameOfLife\GameOfLife\GameOfLife\bin\Debug\nunit.framework.dll
+C:\Users\Cameron\Documents\GitHub\GameOfLife\GameOfLife\GameOfLife\bin\Debug\nunit.framework.xml
+C:\Users\Cameron\Documents\GitHub\GameOfLife\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\Documents\GitHub\GameOfLife\GameOfLife\GameOfLife\obj\Debug\GameOfLife.dll
+C:\Users\Cameron\Documents\GitHub\GameOfLife\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb

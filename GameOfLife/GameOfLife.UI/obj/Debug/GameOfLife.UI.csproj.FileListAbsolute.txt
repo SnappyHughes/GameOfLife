@@ -8,3 +8,13 @@ C:\Repos\GameOfLife\GameOfLife.UI\bin\Debug\nunit.framework.xml
 C:\Repos\GameOfLife\GameOfLife.UI\obj\Debug\GameOfLife.UI.csprojResolveAssemblyReference.cache
 C:\Repos\GameOfLife\GameOfLife.UI\obj\Debug\GameOfLife.UI.exe
 C:\Repos\GameOfLife\GameOfLife.UI\obj\Debug\GameOfLife.UI.pdb
+C:\Users\Cameron\Documents\GitHub\GameOfLife\GameOfLife\GameOfLife.UI\bin\Debug\GameOfLife.UI.exe.config
+C:\Users\Cameron\Documents\GitHub\GameOfLife\GameOfLife\GameOfLife.UI\obj\Debug\GameOfLife.UI.exe
+C:\Users\Cameron\Documents\GitHub\GameOfLife\GameOfLife\GameOfLife.UI\obj\Debug\GameOfLife.UI.pdb
+C:\Users\Cameron\Documents\GitHub\GameOfLife\GameOfLife\GameOfLife.UI\bin\Debug\GameOfLife.UI.exe
+C:\Users\Cameron\Documents\GitHub\GameOfLife\GameOfLife\GameOfLife.UI\bin\Debug\GameOfLife.UI.pdb
+C:\Users\Cameron\Documents\GitHub\GameOfLife\GameOfLife\GameOfLife.UI\bin\Debug\GameOfLife.dll
+C:\Users\Cameron\Documents\GitHub\GameOfLife\GameOfLife\GameOfLife.UI\bin\Debug\nunit.framework.dll
+C:\Users\Cameron\Documents\GitHub\GameOfLife\GameOfLife\GameOfLife.UI\bin\Debug\GameOfLife.pdb
+C:\Users\Cameron\Documents\GitHub\GameOfLife\GameOfLife\GameOfLife.UI\bin\Debug\nunit.framework.xml
+C:\Users\Cameron\Documents\GitHub\GameOfLife\GameOfLife\GameOfLife.UI\obj\Debug\GameOfLife.UI.csprojResolveAssemblyReference.cache

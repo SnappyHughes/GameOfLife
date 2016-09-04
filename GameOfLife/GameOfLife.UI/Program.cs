@@ -15,7 +15,7 @@ namespace GameOfLife.UI
             while(true)
             {
                 PrintGrid(gameOfLife);
-                Thread.Sleep(1000);
+                Thread.Sleep(500);
                 gameOfLife.GetNextGeneration();
                 Console.Clear();
             }
